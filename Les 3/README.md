@@ -1,4 +1,4 @@
-# LAB OPDRACHT 2
+# LAB OPDRACHT 3
 
 ### Basic
 Zorg dat het bewegende karakter uit de vorige les binnen het venster blijft. Het karakter mag deels uit het venster verdwijnen voor de richting omkeert.
