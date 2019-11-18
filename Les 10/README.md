@@ -1,4 +1,4 @@
-### LAB OPDRACHT 9
+### LAB OPDRACHT 10
 
 ### Basic
 Laat iedere enemy die onder aan het venster aankomt z’n x-positie sturen naar een variabele in het main script. Beeldt deze variabele af in de console. Na het afbeelden van de variabele moet de enemy die deze waarde genereerde verwijderd worden uit de arrayList.
