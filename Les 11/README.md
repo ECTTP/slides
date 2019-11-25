@@ -1,4 +1,4 @@
-### LAB OPDRACHT 10
+### LAB OPDRACHT 11
 
 ### Basic
 Als een enemy onderaan het venster uitkomt: bereken de afstand tussen de enemy en de player, bepaal of het raak of mis is, en hoog het scorecijfer alleen op als het binnen jouw spelvorm een punt waard is (Dus bij de ontwijk (speedracer) versie is mis een punt waard, bij de vang (parachute) versie is raak een punt waard.
