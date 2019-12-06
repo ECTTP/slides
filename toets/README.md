@@ -22,7 +22,7 @@ Je hoeft hier niet de feitelijke collision te berekenen, maar alleen te berekene
 - Zorg dat snelheid van de cijfers en de player dusdanig is dat er een uitdagend spel (niet te makkelijk en niet te moeilijk) ontstaat (0,5 punt)
 
 ### Advanced
-- Bereken de collision tussen de player en de cijfer-enemies. In dit stadium mag de player nog alle cijfers raken en maakt de volgorde nog niet uit. (1,5 punten)
+- Bereken de collision tussen de player en de cijfer-enemies. In dit stadium mag de player nog alle cijfers raken en maakt de volgorde nog niet uit. Bij een collision verdwijnt het cijfer dat geraakt is. (1,5 punten)
 
 ### Expert
 - Zorg dat de player alleen de cijfers op volgorde mag raken. Een punt toevoegen bij raken van het juiste cijfer, een punt aftrekken voor het raken van een verkeerd cijfer.
